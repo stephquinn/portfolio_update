@@ -6,11 +6,19 @@ body {
 
 h1 {
     font-family: 'DM Sans', sans-serif;
+    font-size:4em;
     color: #1c1c1d;
     text-transform: uppercase;
 }
 
-.btn btn-link {
-    
+.btn-link {
+    font-family: 'DM Sans', sans-serif;
+    font-size:1.8em;
+    color: #1c1c1d;
+    text-transform: uppercase;
+}
+
+header {
+    margin-top: 1em;
 }
 
