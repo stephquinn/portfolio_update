@@ -11,14 +11,42 @@ h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    font-family: 'Courier Prime';
+    font-size:1.7em;
+    color: #1c1c1d;
+    padding-top: 1em;
+}
+
 .btn-link {
     font-family: 'DM Sans', sans-serif;
     font-size:1.8em;
     color: #1c1c1d;
     text-transform: uppercase;
+    text-decoration: none;
+}
+
+.btn-link:hover {
+    color:#1c1c1d;
 }
 
 header {
     margin-top: 1em;
+}
+
+.me {
+    padding-top: 3em;
+}
+
+.headshot {
+    width: 400px;
+}
+
+img {
+    border: 1px solid #1c1c1d;
+}
+
+footer {
+    padding-top: 3em;
 }
 
