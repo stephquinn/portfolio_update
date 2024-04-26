@@ -56,8 +56,11 @@ header {
     margin-top: 1em;
 }
 
-.me {
-    padding-top: 3em;
+.vertical-center {
+    padding:3em;
+    min-height: 100vh;
+    display: flex;
+    align-items:center;
 }
 
 .headshot {
